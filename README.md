@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Erhan Arslan 👋</h1>
-<h3 align="center">Front-End & Mobile Developer · React · React Native · TypeScript</h3>
+<h3 align="center">Front-End & Web / Mobile Developer · React · React Native · TypeScript</h3>
 
 <p align="center">
   <a href="https://erhan-arslan-cv.vercel.app">Portfolio</a> ·
