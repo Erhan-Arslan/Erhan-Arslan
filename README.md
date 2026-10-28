@@ -2,7 +2,7 @@
 <h3 align="center">Front-End & Web / Mobile Developer · React · React Native · TypeScript</h3>
 
 <p align="center">
-  <a href="https://erhan-arslan-cv.vercel.app">Portfolio</a> ·
+    <a href="https://erhan-arslan.github.io">Portfolio</a> ·
   <a href="https://linkedin.com/in/arslan-erhan">LinkedIn</a> ·
   <a href="mailto:erhanarslan.oney@gmail.com">Email</a>
 </p>
@@ -32,7 +32,7 @@
 | [**DevFlow AI**](https://github.com/Erhan-Arslan/devflow-ai) | Claude-powered Kanban board managed in natural language: an AI agent analyzes the board, proposes changes you review and approve, and generates weekly reports on delay risks and bottlenecks | TypeScript, Claude API |
 | [**BloodConnect**](https://github.com/Erhan-Arslan/BloodConnect) | Android app that connects blood donors, hospitals and patients in urgent donation scenarios | Kotlin, Android Studio |
 | [**Stock Price Forecasting**](https://github.com/Erhan-Arslan/stock-price-forecasting-pytorch) | Extended an open-source PyTorch forecasting project with new stock datasets, additional visualizations and model adjustments; compares LSTM and GRU against a naive baseline | Python, PyTorch |
-| [**Portfolio Website**](https://erhan-arslan-cv.vercel.app) | Personal portfolio and resume site, deployed on Vercel | React, TypeScript |
+| [**Portfolio Website**](https://erhan-arslan.github.io) | Personal portfolio and resume site, deployed on GitHub Pages | React, TypeScript |
 
 ### Experience
 
